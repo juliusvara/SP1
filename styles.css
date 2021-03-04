@@ -1,0 +1,54 @@
+h1, #input {
+    margin-left: 44px;
+    margin-bottom: 0;
+}
+
+div, table {
+    margin-top: 0;
+}
+
+table {
+    width: 90vw;
+    margin: auto;
+    background-color: #e9f4de;
+    border-collapse: collapse;
+}
+
+
+tr:nth-of-type(even) {
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+    width: 100%;
+}
+
+
+
+#submit {
+    margin-left: 0;
+    padding: 0;
+    height: 18px;
+}
+
+
+
+.logout {
+    transform-box: inherit;
+    transform: translate(85%, 50%);
+}
+
+#upl {
+    margin-left: 44px;
+    margin-top: 8px;
+}
+
+#upl input[type="submit"] {
+    display: block;
+}
+
+#bck {
+    margin-left: 44px;
+    margin-top: 8vw;
+}
